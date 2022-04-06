@@ -3,4 +3,4 @@ project(exercises)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(exercises main.cpp)
+add_executable(exercises "Aufgabe 1/find_intersections.cpp")
